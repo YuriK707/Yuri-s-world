@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PIXEL';
+    src: url('PIXEL.eot');
+    src: url('PIXEL.eot?#iefix') format('embedded-opentype'),
+        url('PIXEL.woff2') format('woff2'),
+        url('PIXEL.woff') format('woff'),
+        url('PIXEL.ttf') format('truetype'),
+        url('PIXEL.svg#PIXEL') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
